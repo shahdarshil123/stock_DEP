@@ -1,0 +1,2 @@
+Athena Query Error:
+https://stackoverflow.com/questions/41204545/cannot-load-simple-json-file-with-aws-athena
